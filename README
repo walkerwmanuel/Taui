@@ -3,5 +3,5 @@ Taui
 Tau Investment Strategies
 
 To Run: 
-    node app.js
+    ts-node app.ts
 
